@@ -4,6 +4,7 @@
     "type": "library",
     "keywords": ["api", "jiffybox"],
     "homepage": "http://github.com/goatherd/jiffybox-api/",
+    "license": "MIT",
     "authors": [
     {
         "name": "Maik Penz"
