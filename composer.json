@@ -1,0 +1,19 @@
+{
+    "name": "goatherd/jiffybox-api",
+    "description": "https://www.jiffybox.de API client for PHP",
+    "type": "library",
+    "keywords": ["api", "jiffybox"],
+    "homepage": "http://github.com/goatherd/jiffybox-api/",
+    "authors": [
+    {
+        "name": "Maik Penz"
+    }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": { "Api\\": "src/" }
+    }
+}
